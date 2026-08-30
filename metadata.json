@@ -1,0 +1,6 @@
+{
+  "name": "Statistic School - School Analytics & CRM Platform",
+  "description": "Comprehensive school intelligence, leads penetration, target tracking, and revenue dashboard with modern interactive management tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
